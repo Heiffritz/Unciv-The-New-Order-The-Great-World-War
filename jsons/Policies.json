@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Esoteric Nazism",
+        "era": "Industrial era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 50,
+            "Diplomatic": 0,
+            "Domination": 150,
+            "Scientific": 50
+        },
+        "uniques": [
+            "[+10 Culture] [in capital]",
+            "[-10]% Culture cost of natural border growth [in all cities]",
+            "[-50]% maintenance costs <for [All] units>",
+            "Upon capturing a city, receive [20] times its [Culture] production as [Culture] immediately",
+            "Only available <before adopting [Order]>",
+            "Only available <before adopting [Freedom]>"
+        ],
+        "policies": [
+            {
+                "name": "Burgundian System",
+                "uniques": [
+                    "[+25]% Production when constructing [All] wonders [in all cities]",
+                    "[-10 Happiness] per [10] population [in all cities]",
+                    "Quantity of strategic resources produced by the empire +[100]%",
+                    "[+15 Production] [in all cities]",
+                    "[-30]% maintenance cost for buildings [in all cities]",
+                    "[+50]% [Science] from every [Factory]",
+                    "Free [Worker] appears"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Agrarian Spartanism",
+                "uniques": [
+                    "[+100]% Strength for cities <when attacking>",
+                    "[+40]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+                    "Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
+                    "[+100]% Strength <when attacking> <for [Military] units> <for [150] turns>",
+                    "Free [Great General] appears"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Imperial Cult",
+                "uniques": [
+                    "Provides the cheapest [Culture] building in your first [6] cities for free",
+                    "Earn [150]% of killed [Barbarian] unit's [Strength] as [Culture]",
+                    "[+150]% Production when constructing [Shrine] buildings [in all cities]",
+                    "[+150]% Production when constructing [Temple] buildings [in all cities]",
+                    "[+10 Faith] from every [Shrine]",
+                    "[+10 Faith] from every [Temple]"
+                ],
+                "requires": ["Burgundian System", "Agrarian Spartanism"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Esoteric Nazism Complete",
+                "uniques": [
+                    "[+50]% growth [in all cities]",
+                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+                    "[+50]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+                    "Free [Great Person] appears",
+                    "[+20]% Production when constructing [All] buildings [in all cities]",
+                    "[+20 Gold, -10 Happiness] per [15] population [in capital]",
+                    "[+25]% Strength <for [Ranged] units> <when adjacent to a [Ranged] unit>"
+
+                ]
+            }
+        ]
+    }
+]
