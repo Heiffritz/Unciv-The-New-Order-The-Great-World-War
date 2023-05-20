@@ -2,16 +2,29 @@
     {
 		"name": "Schutzstaffel",
 	    "uniqueTo": "Ordensstaat Burgund",
-		"replaces": "Infantry",
+		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 4,
-		"strength": 100,
-		"cost": 250,
-		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
+		"strength": 110,
+		"cost": 260,
+		"requiredTech": "Rifling",
 		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["Can move after attacking", "May Paradrop up to [20] tiles from inside enemy territory", "No movement cost to pillage", "[+250]% Strength <vs [Tank] units>","[+400]% Strength <vs cities> <when attacking>", "[+150]% Strength <when attacking>"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious", "Drill II", "Cover II", "Siege I"]
+		"promotions": ["Amphibious", "Drill II", "Cover II", "Siege II"]
+	},
+	{
+	    "name": "U-Boot 1000 Kräkenstein",
+		"uniqueTo": "Ordensstaat Burgund",
+		"replaces": "Nuclear Submarine",
+	    "unitType": "Submarine",
+	    "movement": 10,
+	    "strength": 120,
+	    "range": 6,
+	    "rangedStrength": 150,
+	    "cost": 430,
+	    "requiredTech": "Telecommunications",
+	    "uniques": ["[+150]% Strength <when attacking>", "[+3] Sight", "Can carry [6] [Missile] units", "Never appears as a Barbarian unit", "Can move after attacking", ],
+	    "attackSound": "torpedo"
 	}
 ]
