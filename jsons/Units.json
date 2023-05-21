@@ -24,7 +24,6 @@
 	    "cost": 425,
 	    "requiredTech": "Telecommunications",
 	    "uniques": ["[+80]% Strength <when attacking>", "[+2] Sight", "Can carry [6] [Missile] units", "Never appears as a Barbarian unit", "Can move after attacking"],
-	    "attackSound": "torpedo",
-		"promotions": ["wolfpack II", "mobility"]
+	    "attackSound": "torpedo"
 	}
 ]
