@@ -16,7 +16,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [70, 0, 118],
 		"uniqueName": "Sonnenrad",
-		"uniques": ["[Great Scientist] is earned [50]% faster","[Great General] is earned [50]% faster","Starts with [Autocracy] adopted"],
-		"cities": ["Nanzig","Tischau","Lienhardstadt","Neu Berlin"]
+		"uniques": ["Starts with [Autocracy] adopted", "Units in cities cost no Maintenance"],
+		"cities": ["Nanzig","Tischau","Lienhardstadt","Neu Berlin", "Ost Paris"]
 	}
 ]
