@@ -28,7 +28,7 @@
                     "[+25]% [Science] from every [Factory]"
                 ],
                 "row": 1,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Agrarian Spartanism",
@@ -40,7 +40,7 @@
                     "Free [Great General] appears"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 4
             },
             {
                 "name": "Imperial Cult",
@@ -53,7 +53,7 @@
                     "[+8 Faith] from every [Temple]"
                 ],
                 "row": 2,
-                "column": 3
+                "column": 2
             },
             {
                 "name": "Esoteric Ecology",
@@ -63,8 +63,8 @@
                     "Nuclear weapon of Strength [6]",
                     "[-20]% maintenance cost for nuclear weapons [in all cities]"
                 ],
-                "row": 2,
-                "column": 4
+                "row": 3,
+                "column": 3
             },
             {
                 "name": "Esoteric Nazism Complete",
