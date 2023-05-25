@@ -4,12 +4,12 @@
 	    "uniqueTo": "Ordensstaat Burgund",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 65,
+		"movement": 6,
+		"strength": 100,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking", "No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious", "Drill II", "Cover II", "Formation II"]
+		"promotions": ["Amphibious", "Drill II", "Cover II"]
 	}
 ]
