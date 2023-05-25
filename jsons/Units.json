@@ -10,6 +10,6 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking", "No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious", "Drill II", "Cover II"]
+		"promotions": ["Amphibious", "Drill II", "Cover II", "Formation II"]
 	}
 ]

@@ -45,6 +45,7 @@
                     "[+90]% Production when constructing [Temple] buildings [in all cities]",
                     "[+8 Faith] from every [Temple]"
                 ],
+                "requires": ["Burgundian System", "Agrarian Spartanism"],
                 "row": 2,
                 "column": 2
             },
@@ -56,6 +57,7 @@
                     "Nuclear weapon of Strength [6]",
                     "[-10]% maintenance cost for nuclear weapons [in all cities]"
                 ],
+                "requires": ["Burgundian System"],
                 "row": 2,
                 "column": 4
             },
