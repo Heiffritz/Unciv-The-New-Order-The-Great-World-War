@@ -11,7 +11,6 @@
         },
         "uniques": [
             "Units in cities cost no Maintenance",
-            "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"
         ],
         "policies": [
