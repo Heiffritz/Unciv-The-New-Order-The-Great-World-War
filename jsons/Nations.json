@@ -15,8 +15,8 @@
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [0,0,0],
 		"innerColor": [70, 0, 118],
-		"uniqueName": "Burgund",
-		"uniques": ["Starts with [Autocracy] adopted", "Units in cities cost no Maintenance"],
+		"uniqueName": "Ordensstaat Burgund",
+		"uniques": ["Starts with [Autocracy] adopted"],
 		"cities": ["Nanzig","Tischau","Lienhardstadt","Neu Berlin","Ost Paris"]
 	}
 ]

@@ -3,15 +3,15 @@
         "name": "Esoteric Nazism",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 10,
+            "Neutral": 15,
             "Cultural": 45,
-            "Diplomatic": 15,
+            "Diplomatic": 10,
             "Domination": 105,
             "Scientific": 35
         },
         "uniques": [
-            "Units in cities cost no Maintenance",
-            "Only available <before adopting [Freedom]>"
+            "Only available <before adopting [Freedom]>",
+            "Only available <before adopting [Order]>"
         ],
         "policies": [
             {
@@ -26,7 +26,7 @@
                 "column": 2
             },
             {
-                "name": "Agrarian Spartanism",
+                "name": "Aryan Spartanism",
                 "uniques": [
                     "[+75]% Strength for cities <when attacking>",
                     "[+30]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
@@ -41,7 +41,7 @@
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [5] cities for free",
                     "Earn [80]% of killed [Barbarian] unit's [Strength] as [Culture]",
-                    "[+90]% Production when constructing [Temple] buildings [in all cities]",
+                    "[+15]% Production when constructing [Temple] buildings [in all cities]",
                     "[+8 Faith] from every [Temple]"
                 ],
                 "requires": ["Burgundian System", "Agrarian Spartanism"],
@@ -51,12 +51,12 @@
             {
                 "name": "Esoteric Ecology",
                 "uniques": [
-                    "[+5]% [Uranium] from City-States",
-                    "[+3 Uranium, +3 Oil, +3 Production, +3 Iron] [in all cities]",
+                    "[+2]% [Uranium] from City-States",
+                    "[+2 Uranium, +2 Oil, +2 Iron] [in all cities]",
                     "Nuclear weapon of Strength [6]",
-                    "[-10]% maintenance cost for nuclear weapons [in all cities]"
+                    "[-12]% maintenance cost for nuclear weapons [in all cities]"
                 ],
-                "requires": ["Burgundian System"],
+                "requires": ["Burgundian System", "Imperial Cult"],
                 "row": 2,
                 "column": 4
             },
@@ -66,10 +66,8 @@
                     "[+25]% growth [in all cities]",
                     "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
                     "[+5]% Production when constructing [All] buildings [in all cities]",
-                    "[+4 Gold, -1 Happiness] per [15] population [in capital]",
-                    "[+10]% Strength <for [Ranged] units> <when adjacent to a [Ranged] unit>",
-                    "[+10]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-                    "[-50]% maintenance costs <for [All] units>"
+                    "[+4 Gold, -1 Happiness] per [10] population [in capital]",
+                    "[-45]% maintenance costs <for [All] units>"
                 ]
             }
         ]
