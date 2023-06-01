@@ -3,20 +3,18 @@
 		"name": "Ordensstaat Burgund",
 		"leaderName": "Heinrich Himmler",
 		"adjective": ["Burgundian"],
-
-		"startIntroPart1": "The world shall see the black sun rise over them all and we will rule over them under the great new order. For there is no hope under the black sun. Sieg Heil!",
-
-		"declaringWar": "For the world shall be under the black sun orders!",
-		"attacked": "As you wish. You'll see the black sun's wrath! Sieg Heil!",
-		"defeated": "You just see the old dawn, then you'll see the new rise of the great Reich! Sieg Heil!",
-		"introduction": "For the world shall see the black sun rise over the great Reich! Sieg Heil!",
+		"startIntroPart1": "The world shall see the black sun rise over them all and we will rule over them under the great new order. For there is no hope under the black sun. Für Blut und Ehre. Burgund Erwacht. Sieg Heil!",
+		"declaringWar": "For the Aryan race and world!",
+		"attacked": "As you wish. You'll see the Aryans' wrath!",
+		"defeated": "You just see the old dawn, then you'll see Burgund Erwacht!",
+		"introduction": "For the world shall see the black sun rise over the great Reich!",
 		"neutralHello": "Guten Tag.",
 		"hateHello": "FANGEN SIE AN, JUDE!",
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [0,0,0],
 		"innerColor": [70, 0, 118],
-		"uniqueName": "Ordensstaat Burgund",
+		"uniqueName": "Burgund Erwacht",
 		"uniques": ["Starts with [Autocracy] adopted"],
-		"cities": ["Nanzig","Tischau","Lienhardstadt","Neu Berlin","Ost Paris"]
+		"cities": ["Ost Paris","Nanzig","Tischau","Lienhardstadt","Neu Berlin"]
 	}
 ]

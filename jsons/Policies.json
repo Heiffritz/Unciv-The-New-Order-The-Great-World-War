@@ -46,7 +46,7 @@
                 ],
                 "requires": ["Burgundian System", "Agrarian Spartanism"],
                 "row": 2,
-                "column": 2
+                "column": 4
             },
             {
                 "name": "Esoteric Ecology",
@@ -58,7 +58,7 @@
                 ],
                 "requires": ["Burgundian System", "Imperial Cult"],
                 "row": 2,
-                "column": 4
+                "column": 2
             },
             {
                 "name": "Esoteric Nazism Complete",

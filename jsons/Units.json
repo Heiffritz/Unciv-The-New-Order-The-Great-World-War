@@ -10,7 +10,6 @@
 		"range": 3,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
-		"upgradesTo": "Supersoldat",
 		"uniques": ["Can move after attacking", "No movement cost to pillage"],
 		"attackSound": "shot",
 		"promotions": ["Amphibious"]
@@ -26,7 +25,7 @@
 		"range": 50,
 		"cost": 1000,
 		"requiredTech": "Advanced Ballistics",
-		"requiredResource": "Uranium, Iron, Aluminum",
+		"requiredResource": "Uranium",
 		"uniques": ["Nuclear weapon of Strength [5]", "Blast radius [4]", "Consumes [5] [Uranium]"],
 		"attackSound": "nuke"
 	},
@@ -41,7 +40,7 @@
 		"range": 5,
 		"cost": 425,
 		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "Uranium, Iron, Aluminum",
+		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "No movement cost to pillage"],
 		"attackSound": "gdrAttack"
 	}
