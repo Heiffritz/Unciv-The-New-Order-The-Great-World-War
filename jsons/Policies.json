@@ -44,7 +44,7 @@
                     "[+15]% Production when constructing [Temple] buildings [in all cities]",
                     "[+8 Faith] from every [Temple]"
                 ],
-                "requires": ["Burgundian System", "Agrarian Spartanism"],
+                "requires": ["Burgundian System", "Aryan Spartanism"],
                 "row": 2,
                 "column": 4
             },

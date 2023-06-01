@@ -3,7 +3,7 @@
 		"name": "Ordensstaat Burgund",
 		"leaderName": "Heinrich Himmler",
 		"adjective": ["Burgundian"],
-		"startIntroPart1": "The world shall see the black sun rise over them all and we will rule over them under the great new order. For there is no hope under the black sun. Für Blut und Ehre. Burgund Erwacht. Sieg Heil!",
+		"startIntroPart1": "Your Fuhrer's decaying body is akin to his ideology. A carcass that is unsustainable for the earth you cling so dearly. The Aryan race has nothing to gain from this world you protect. But it's ashes... Let go of your fickle existence and take your place. Among us. The Gods of the new world. The Atomic Fire will purify this earth. The Unworthy wil perish, you will not survive our ascension.",
 		"declaringWar": "For the Aryan race and world!",
 		"attacked": "As you wish. You'll see the Aryans' wrath!",
 		"defeated": "You just see the old dawn, then you'll see Burgund Erwacht!",
@@ -13,8 +13,8 @@
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [0,0,0],
 		"innerColor": [70, 0, 118],
-		"uniqueName": "Burgund Erwacht",
+		"uniqueName": "SS State",
 		"uniques": ["Starts with [Autocracy] adopted"],
-		"cities": ["Ost Paris","Nanzig","Tischau","Lienhardstadt","Neu Berlin"]
+		"cities": ["Ost-Paris","Nanzig","Tischau","Lienhardstadt","Neu-Berlin"]
 	}
 ]
