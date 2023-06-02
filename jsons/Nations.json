@@ -13,8 +13,8 @@
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [0,0,0],
 		"innerColor": [70, 0, 118],
-		"uniqueName": "SS State",
+		"uniqueName": "SS State of Burgundy",
 		"uniques": ["Starts with [Autocracy] adopted"],
-		"cities": ["Ost-Paris","Nanzig","Tischau","Lienhardstadt","Neu-Berlin"]
+		"cities": ["Ost-Paris","Nanzig","Tischau","Lienhardstadt","Neu-Berlin","West-Luxembourg","Roanne","Nevers"]
 	}
 ]
