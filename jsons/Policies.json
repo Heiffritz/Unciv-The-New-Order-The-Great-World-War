@@ -83,7 +83,7 @@
             "Scientific": 90
         },
         "uniques": [
-            "[+25]% growth [in all cities]",
+            "[+30]% growth [in all cities]",
             "[+1 Uranium, +1 Happiness] per [10] population [in all cities]"
         ],
         "policies": [
@@ -111,7 +111,7 @@
                 "column": 3
             },
             {
-                "name": "The Great Trial Complete",
+                "name": "Great Trial Complete",
                 "uniques": [
                     "Nuclear weapon of Strength [10]"
                 ]
