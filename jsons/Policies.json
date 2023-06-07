@@ -71,5 +71,110 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Great Trial",
+        "era": "Atomic Era",
+        "priorities": {
+            "Neutral": 20,
+            "Cultural": 20,
+            "Diplomatic": 10,
+            "Domination": 180,
+            "Scientific": 90
+        },
+        "uniques": [
+            "[+25]% growth [in all cities]",
+            "[+1 Uranium, +1 Happiness] per [10] population [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Ultramilitarism",
+                "uniques": [
+                    "[+55]% Strength <vs [Barbarian] units>",
+                    "[+25]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
+                    "[+35]% Strength <for [Wounded] units>",
+                    "[-50]% Gold cost of upgrading <for [Military] units>"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "The Great Trial",
+                "uniques": [
+                    "[+55]% Strength <vs [Enemy] units>",
+                    "[+25]% Strength <for [Ranged] units> <when adjacent to a [Ranged] unit>",
+                    "[+50]% Strength for cities <when defending>",
+                    "[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
+                ],
+                "requires": ["Ultramilitarism"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "The Great Trial Complete",
+                "uniques": [
+                    "Nuclear weapon of Strength [10]"
+                ]
+            }
+        ]  
+    },
+    {
+        "name": "Ynglism",
+        "era": "Industrial era",
+        "priorities": {
+            "Neutral": 15,
+            "Cultural": 45,
+            "Diplomatic": 15,
+            "Domination": 95,
+            "Scientific": 45
+        },
+        "uniques": [
+            "Only available <before adopting [Freedom]>",
+            "Only available <before adopting [Order]>",
+            "Provides the cheapest [Culture] building in your first [5] cities for free"
+        ],
+        "policies": [
+            {
+                "name": "Hyperborean System",
+                "uniques": [
+                    "[+10]% Culture when constructing [All] wonders [in all cities]",
+                    "Quantity of strategic resources produced by the empire +[40]%",
+                    "[-10]% maintenance cost for buildings [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Slav Spartanism",
+                "uniques": [
+                    "[+60]% Strength for cities <when attacking>",
+                    "[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+                    "Militaristic City-States grant units [12] times as fast when you are at war with a common nation"
+                ],
+                "requires": ["Hyperborean System"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Russian Nazism",
+                "uniques": [
+                    "[+60]% Strength <when attacking> <for [Military] units> <for [140] turns>",
+                    "[+1 Happiness] per [15] population [in capital]",
+                    "[-45]% maintenance costs <for [All] units>"
+                ],
+                "requires": ["Hyperborean System","Slav Spartanism"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Ynglism Complete",
+                "uniques": [
+                    "[+30]% growth [in all cities]",
+                    "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+                    "[+5]% Production when constructing [All] buildings [in all cities]",
+                    "[+5 Gold] per [15] population [in capital]"
+                ]
+            }
+        ]
     }
 ]

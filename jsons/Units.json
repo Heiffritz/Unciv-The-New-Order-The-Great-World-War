@@ -30,7 +30,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Supersoldat",
+		"name": "Supersoldaten",
 		"uniqueTo":"Ordensstaat Burgund",
 		"replaces": "Giant Death Robot",
 		"unitType": "Armored",
@@ -43,5 +43,35 @@
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "No movement cost to pillage"],
 		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Black League",
+	    "uniqueTo": "Siberian Black League",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 3,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["Can move after attacking", "No movement cost to pillage"],
+		"attackSound": "shot",
+		"promotions": ["Amphibious"]
+	},
+	{
+		"name": "Solnechnpistol",
+		"uniqueTo": "Hyperborea",
+		"replaces": "Nuclear Missile",
+		"unitType": "Missile",
+		"movement": 3,
+		"strength": 315,
+		"rangedStrength": 315,
+		"range": 50,
+		"cost": 1000,
+		"requiredTech": "Advanced Ballistics",
+		"requiredResource": "Uranium",
+		"uniques": ["Nuclear weapon of Strength [5]", "Blast radius [4]", "Consumes [5] [Uranium]"],
+		"attackSound": "nuke"
 	}
 ]
