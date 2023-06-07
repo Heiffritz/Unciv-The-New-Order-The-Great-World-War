@@ -74,7 +74,7 @@
     },
     {
         "name": "Great Trial",
-        "era": "Atomic Era",
+        "era": "Atomic era",
         "priorities": {
             "Neutral": 20,
             "Cultural": 20,
