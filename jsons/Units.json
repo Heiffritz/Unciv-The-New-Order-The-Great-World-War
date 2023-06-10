@@ -118,5 +118,20 @@
 		"requiredResource": "Uranium",
 		"uniques": ["Nuclear weapon of Strength [5]", "Blast radius [4]", "Consumes [2] [Uranium]"],
 		"attackSound": "nuke"
+	},
+	{
+		"name": "Black Army",
+		"uniqueTo": "ESACA",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 3,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["Can move after attacking", "No movement cost to pillage"],
+		"attackSound": "shot",
+		"promotions": ["Amphibious"]
 	}
 ]
