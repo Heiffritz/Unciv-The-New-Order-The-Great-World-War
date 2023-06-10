@@ -4,6 +4,7 @@
 		"leaderName": "Heinrich Himmler",
 		"adjective": ["Burgundian"],
 		"startIntroPart1": "Your Fuhrer's decaying body is akin to his ideology. A carcass that is unsustainable for the earth you cling so dearly. The Aryan race has nothing to gain from this world you protect. But it's ashes... Let go of your fickle existence and take your place. Among us. The Gods of the new world. The Atomic Fire will purify this earth. The Unworthy wil perish, you will not survive our ascension.",
+		"preferredVictoryType": "Domination",
 		"declaringWar": "For the Aryan race and world!",
 		"attacked": "As you wish. You'll see the Aryans' wrath!",
 		"defeated": "You just see the old dawn, then you'll see Burgund Erwacht!",
@@ -30,19 +31,17 @@
 		"neutralHello": "The Great Trial Awaits!",
 		"hateHello": "THE GREAT TRIAL AWAITS!",
 		"tradeRequest": "The Black League's offering.",
-		"outerColor": [37, 43, 33],
+		"outerColor": [0,0,0],
 		"innerColor": [255,255,75],
 		"uniqueName": "Russian National Reclamation Government",
 		"uniques": ["[-15]% maintenance cost for nuclear weapons [in all cities]"],
-		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
-		    "Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+		"cities": ["Omsk","Zapad-Moskva","Yazovgrad","Kazan","Yekaterinburg","Novosibirsk","Vladivostok","Samara","Yaroslavl","Novgorod","Rostov","Volgograd","Krasnoyarsk","Saratov","Kaliningrad","Chelyabinsk","Tyumen","Ufa","Voronezh","Barnaul","Krasnodar","Khabarovsk","Tomsk"]
 	},
 	{
 		"name": "Hyperborea",
 		"leaderName": "Falery Schultz",
 		"adjective": ["Hyperborean"],
+		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Let us face ourselves. We are Hyperboreans; We know very well how far off we live.",
 		"declaringWar": "The North Dominates!",
 		"attacked": "You'll taste the Hyperborean wrath!",
@@ -55,6 +54,30 @@
 		"innerColor": [27,33,96],
 		"uniqueName": "Norver(North) Russia",
 		"uniques": ["Starts with [Ynglism] adopted"],
-		"cities": ["Norver-Moskvien","Arkhangelsk","Yakutsk","Murmansk","Severodvinsk","Norilsk","Petropavlovsk-Kamchatsky","Novy Urengoi","Noyabrsk","Magadan","Surgut"]
+		"cities": ["Norver-Moskvien","Permhaym","Arkhangelsk","Yakutsk","Murmansk","Severodvinsk","Norilsk","Petropavlovsk-Kamchatsky","Novy Urengoi","Noyabrsk","Magadan","Surgut"]
+	},
+	{
+		"name": "Großgermanisches Reich",
+		"leaderName": "Hermann Göring",
+		"adjective": ["Aryan"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "For the 1000 year Reich. Heil Hitler!",
+		"declaringWar": "WE WANT TOTAL WAR!",
+		"attacked": "So you want a war, then i,ll give you war",
+		"defeated": "Don't let the noise that the world is about to start disorientate you. One day, the lies will fall under their own weight, and truth will triumph over them.  The hour will come in which we will be above all, clean and without guilt, like our faith and task were.",
+		"introduction": "For the 1000 year Reich. Heil Hitler!",
+		"neutralHello": "Guten Tag.",
+		"hateHello": "FANGEN SIE AN, JUDE!",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [140,22,22],
+		"innerColor": [0,0,0],
+		"uniqueName": "Greater Germanic Reich",
+		"uniques": ["Starts with [Autocracy] adopted", "[-15]% maintenance cost units [in all cities]"],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+		"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+		"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+		"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+		"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+		"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
 	}
 ]

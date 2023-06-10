@@ -38,7 +38,7 @@
                 "column": 4
             },
             {
-                "name": "Imperial Cult",
+                "name": "Thule Society",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [5] cities for free",
                     "Earn [80]% of killed [Barbarian] unit's [Strength] as [Culture]",
@@ -57,7 +57,7 @@
                     "Nuclear weapon of Strength [6]",
                     "[-12]% maintenance cost for nuclear weapons [in all cities]"
                 ],
-                "requires": ["Burgundian System", "Imperial Cult"],
+                "requires": ["Burgundian System", "Thule Society"],
                 "row": 2,
                 "column": 2
             },
