@@ -34,7 +34,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,75],
 		"uniqueName": "Russian National Reclamation Government",
-		"uniques": ["[-15]% maintenance cost for nuclear weapons [in all cities]"],
+		"uniques": ["[-15]% maintenance cost for nuclear weapons [in all cities]","Starts with [Great Trial] adopted"],
 		"cities": ["Omsk","Zapad-Moskva","Yazovgrad","Kazan","Yekaterinburg","Novosibirsk","Samara","Yaroslavl","Novgorod","Rostov","Volgograd","Krasnoyarsk","Saratov","Kaliningrad","Chelyabinsk","Tyumen","Ufa","Voronezh","Barnaul","Krasnodar","Khabarovsk","Tomsk"]
 	},
 	{
@@ -96,7 +96,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
 		"uniqueName": "Eastern Siberian Anarcho Communist Army",
-		"uniques": ["[-25]% maintenance cost units [in all cities]"],
+		"uniques": ["[-30]% maintenance cost units [in all cities]"],
 		"cities": ["Yakutsk","Vladivostok","Petropavlovsk-Kamchatsky","Yuzhno-Sakhalinsk","Magadan","Komsomolsk-on-Amur","Blagoveshchensk","Birobidzhan"]
 	}
 ]

@@ -12,7 +12,8 @@
         "uniques": [
             "Only available <before adopting [Freedom]>",
             "Only available <before adopting [Order]>",
-            "Only available <before adopting [Great Trial]>"
+            "Only available <before adopting [Great Trial]>",
+            "Only available <before adopting [Ynglism]>"
         ],
         "policies": [
             {
@@ -85,7 +86,10 @@
         },
         "uniques": [
             "[+30]% growth [in all cities]",
-            "[+1 Uranium, +1 Happiness] per [10] population [in all cities]"
+            "[+1 Uranium, +1 Happiness] per [10] population [in all cities]",
+            "Only available <before adopting [Freedom]>",
+            "Only available <before adopting [Ynglism]>",
+            "Only available <before adopting [Esoteric Nazism]>"
         ],
         "policies": [
             {
@@ -132,6 +136,7 @@
         "uniques": [
             "Only available <before adopting [Freedom]>",
             "Only available <before adopting [Order]>",
+            "Only available <before adopting [Esoteric Nazism]>",
             "Provides the cheapest [Culture] building in your first [5] cities for free"
         ],
         "policies": [
