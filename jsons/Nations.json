@@ -2,7 +2,7 @@
 	{
 		"name": "Ordensstaat Burgund",
 		"leaderName": "Heinrich Himmler",
-		"adjective": ["Burgundian"],
+		"adjective": ["Burgundian","Aryan"],
 		"startIntroPart1": "Your Fuhrer's decaying body is akin to his ideology. A carcass that is unsustainable for the earth you cling so dearly. The Aryan race has nothing to gain from this world you protect. But it's ashes... Let go of your fickle existence and take your place. Among us. The Gods of the new world. The Atomic Fire will purify this earth. The Unworthy wil perish, you will not survive our ascension.",
 		"preferredVictoryType": "Domination",
 		"declaringWar": "For the Aryan race and world!",
@@ -35,11 +35,11 @@
 		"innerColor": [255,255,75],
 		"uniqueName": "Russian National Reclamation Government",
 		"uniques": ["[-15]% maintenance cost for nuclear weapons [in all cities]","Starts with [Great Trial] adopted"],
-		"cities": ["Omsk","Zapad-Moskva","Yazovgrad","Kazan","Yekaterinburg","Novosibirsk","Samara","Yaroslavl","Novgorod","Rostov","Volgograd","Krasnoyarsk","Saratov","Kaliningrad","Chelyabinsk","Tyumen","Ufa","Voronezh","Barnaul","Krasnodar","Khabarovsk","Tomsk"]
+		"cities": ["Omsk","Zapad-Moskva","Yazovgrad","Kazan","Yekaterinburg","Novosibirsk","Samara","Novgorod","Rostov","Volgograd","Krasnoyarsk","Saratov","Kaliningrad","Chelyabinsk","Tyumen","Ufa","Voronezh","Barnaul","Krasnodar","Khabarovsk","Tomsk"]
 	},
 	{
 		"name": "Hyperborea",
-		"leaderName": "Falery Schultz",
+		"leaderName": "Walerie Yämelyanoff",
 		"adjective": ["Hyperborean"],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Let us face ourselves. We are Hyperboreans; We know very well how far off we live.",
@@ -59,7 +59,7 @@
 	{
 		"name": "Großgermanisches Reich",
 		"leaderName": "Hermann Göring",
-		"adjective": ["Aryan"],
+		"adjective": ["Aryan","German","Nazi"],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "For the 1000 year Reich. Heil Hitler!",
 		"declaringWar": "WE WANT TOTAL WAR!",
@@ -73,7 +73,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Greater Germanic Reich",
 		"uniques": ["Starts with [Autocracy] adopted", "[-15]% maintenance cost units [in all cities]"],
-		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+		"cities": ["Germania","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 		"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 		"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
 		"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
@@ -83,7 +83,7 @@
 	{
 		"name": "ESACA",
 		"leaderName": "Ivan Stepanov",
-		"adjective": ["Russian"],
+		"adjective": ["Russian","Anarchist","Communist"],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "The problem is the more difficult to solve that there are a good many individuals who are the same time 'Bandits' and 'Anarchists' -Georgi Plekhanov",
 		"declaringWar": "Mother Anarchy loves her sons!",
@@ -96,7 +96,45 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
 		"uniqueName": "Eastern Siberian Anarcho Communist Army",
-		"uniques": ["[-30]% maintenance cost units [in all cities]"],
+		"uniques": ["[-30]% maintenance cost units [in all cities]","Starts with [Anarcho-Communism] adopted"],
 		"cities": ["Yakutsk","Vladivostok","Petropavlovsk-Kamchatsky","Yuzhno-Sakhalinsk","Magadan","Komsomolsk-on-Amur","Blagoveshchensk","Birobidzhan"]
+	},
+	{
+		"name": "Holy Russian Empire",
+		"leaderName": "Sergey Taboritsky",
+		"adjective": ["Russian"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "The  clock has struck midnight. Hail the nightmare. Remain calm. The regent endures. Alexei lives. The Holy Russian Empire shall endure. There is much to be done. God save Russia, for no one else can.",
+		"declaringWar": "The  clock has struck midnight. Hail the nightmare. Remain calm. The regent endures. Alexei lives. The Holy Russian Empire shall endure. There is much to be done. God save Russia, for no one else can.",
+		"attacked": "As you wish. You'll see the Russians' wrath!",
+		"defeated": "The Russians will take revenge for the holy empire!",
+		"introduction": "The  clock has struck midnight. Hail the nightmare. Remain calm. The regent endures. Alexei lives. The Holy Russian Empire shall endure. There is much to be done. God save Russia, for no one else can.",
+		"neutralHello": "The clock has struck midnight.",
+		"hateHello": "The  clock has struck midnight. Hail the nightmare. Remain calm. The regent endures. Alexei lives. The Holy Russian Empire shall endure. There is much to be done. God save Russia, for no one else can.",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [208, 165, 0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Holy Imperial Russian Regency",
+		"uniques": ["[-20]% maintenance cost for nuclear weapons [in all cities]","Starts with [Autocracy] adopted","[-20]% maintenance cost units [in all cities]"],
+		"cities": ["Sergiev Posad","Smolensk","Suzdal","Tula","Vladimir","Yaroslavl"]
+	},
+	{
+		"name": "SSSSR",
+		"leaderName": "Valery Sablin",
+		"adjective": ["Soviet","Russian"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Trust the fact that history will judge events honestly and you will never have to be embarrassed for what your father did. On no account ever be one of those people who criticise but do not follow through their actions. Such people are hypocrites—weak, worthless people who do not have the power to reconcile their beliefs with their actions. I wish you courage, my dear. Be strong in the belief that life is wonderful. Be positive and believe that the Revolution will always win. I am convinced that a revolutionary consciousness will catch fire among our people.",
+		"declaringWar": "FOR THE PEOPLE!",
+		"attacked": "YOU'LL SEE THE PEOPLE'S WRATH!",
+		"defeated": "Be strong in the belief that life is wonderful. Be positive and believe that the Revolution will always win.",
+		"introduction": "Be strong in the belief that life is wonderful. Be positive and believe that the Revolution will always win.",
+		"neutralHello": "Trust the fact that history will judge events honestly and you will never have to be embarrassed for what your father did. On no account ever be one of those people who criticise but do not follow through their actions. Such people are hypocrites—weak, worthless people who do not have the power to reconcile their beliefs with their actions. I wish you courage, my dear. Be strong in the belief that life is wonderful. Be positive and believe that the Revolution will always win.",
+		"hateHello": "FUCKIN' CORRUPTORS!",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [229,0,0],
+		"innerColor": [236,166,0],
+		"uniqueName": "Southern Siberia of Soviet Socialist Republics",
+		"uniques": ["Starts with [Order] adopted","[-35]% maintenance cost units [in all cities]","[-15]% maintenance cost for nuclear weapons [in all cities]"],
+		"cities": ["Derbent","Elista","Krasnodar","Makhackala","Mineralnye Vody","Rostov-on-the-Don","Sochi","Stavropol","Vladikavkaz"]
 	}
 ]

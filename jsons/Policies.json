@@ -6,7 +6,7 @@
             "Neutral": 15,
             "Cultural": 45,
             "Diplomatic": 10,
-            "Domination": 105,
+            "Domination": 110,
             "Scientific": 35
         },
         "uniques": [
@@ -81,15 +81,15 @@
             "Neutral": 20,
             "Cultural": 20,
             "Diplomatic": 10,
-            "Domination": 180,
+            "Domination": 150,
             "Scientific": 90
         },
         "uniques": [
-            "[+30]% growth [in all cities]",
-            "[+1 Uranium, +1 Happiness] per [10] population [in all cities]",
             "Only available <before adopting [Freedom]>",
             "Only available <before adopting [Ynglism]>",
-            "Only available <before adopting [Esoteric Nazism]>"
+            "Only available <before adopting [Esoteric Nazism]>",
+            "[+30]% growth [in all cities]",
+            "[+1 Uranium, +1 Happiness] per [10] population [in all cities]"
         ],
         "policies": [
             {
@@ -179,6 +179,60 @@
                     "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
                     "[+5]% Production when constructing [All] buildings [in all cities]",
                     "[+5 Gold] per [15] population [in capital]"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anarcho-Communism",
+        "era":"Industrial era",
+        "priorities": {
+            "Neutral": 15,
+            "Cultural": 15,
+            "Diplomatic": 8,
+            "Domination": 105,
+            "Scientific": 15
+        },
+        "uniques": [
+            "Only available <before adopting [Esoteric Nazism]>",
+            "Only available <before adopting [Freedom]",
+            "Only available <before adopting [Great Trial]>",
+            "Only available <before adopting [Order]>",
+            "Only available <before adopting [Ynglism]>",
+            "Quantity of strategic resources produced by the empire +[40]%",
+            "[-10]% maintenance cost for buildings [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Syndicalism",
+                "uniques": [
+                    "[+25]% Production when constructing [All] buildings [in all cities]",
+                    "[+1 Happiness] per [10] population [in capital]",
+                    "[+20]% Production when constructing [All] wonders [in all cities]",
+                    "[+2 Uranium, +2 Oil, +2 Iron] [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "United Front",
+                "uniques": [
+                    "[+20]% growth [in all cities]",
+                    "[+25]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+                    "[+50]% Strength for cities <when defending>",
+                    "[+50]% Strength <vs [Barbarian] units>"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Anarcho-Communism Complete",
+                "uniques": [
+                    "[+25]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+                    "[-50]% maintenance costs <for [All] units>",
+                    "Militaristic City-States grant units [10] times as fast when you are at war with a common nation",
+                    "[-50]% Gold cost of upgrading <for [Military] units>",
+                    "[+50]% Strength for cities <when attacking>"
                 ]
             }
         ]
