@@ -146,7 +146,7 @@
 		"range": 2,
 		"cost": 425,
 		"requiredTech": "Lasers",
-		"requiredResource": "Aluminium",
+		"requiredResource": "Aluminum",
 		"upgradesTo": "Giant Death Robot",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
