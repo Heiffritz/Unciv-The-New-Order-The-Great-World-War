@@ -12,10 +12,10 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious"]
+		"promotions": ["Amphibious","Morale"]
 	},
 	{
-		"name": "Supersoldaten",
+		"name": "Supersoldaten 'Totenkopf'",
 		"uniqueTo":"Ordensstaat Burgund",
 		"replaces": "Giant Death Robot",
 		"unitType": "Armored",
@@ -42,7 +42,7 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious"]
+		"promotions": ["Amphibious","Morale"]
 	},
 	{
 		"name": "Solnechnpistol",
@@ -60,7 +60,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Hayperborya Ortyard",
+		"name": "Hayperborya Strazha",
 		"uniqueTo": "Hyperborea",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
@@ -72,7 +72,7 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious"]
+		"promotions": ["Amphibious","Morale"]
 	},
 	{
 		"name": "Kriegsmarine",
@@ -87,7 +87,7 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious"]
+		"promotions": ["Amphibious","Morale"]
 	},
 	{
 		"name": "Sonnengewehr",
@@ -105,7 +105,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Black Army",
+		"name": "Chernyy Soldat",
 		"uniqueTo": "ESACA",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
@@ -117,7 +117,7 @@
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shot",
-		"promotions": ["Amphibious"]
+		"promotions": ["Amphibious","Morale"]
 	},
 	{
 		"name": "Panzer",
@@ -271,8 +271,8 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Tsar Bomba 2",
-		"uniqueTo":"Siberian Black League",
+		"name": "Probnaya Bomba",
+		"uniqueTo": "Siberian Black League",
 		"replaces": "Atomic Bomb",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
@@ -341,8 +341,54 @@
 		"range": 3,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["Can move after attacking","No movement cost to pillage","Nuclear weapon of Strength [2]"],
+		"uniques": ["Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shot",
 		"promotions": ["Amphibious","Morale"]
+	},
+	{
+		"name": "Red Soldier",
+		"uniqueTo": "SSSSR",
+		"replaces": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 3,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["Can move after attacking","No movement cost to pillage"],
+		"attackSound": "shot",
+		"promotions": ["Amphibious","Morale"]
+	},
+	{
+		"name": "Lenin Bomba",
+		"uniqueTo": "SSSSR",
+		"replaces": "Atomic Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 420,
+		"rangedStrength": 420,
+		"range": 20,
+		"cost": 725,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [10]","Only available <if [Manhattan Project] is constructed>","Self-destructs when attacking","Blast radius [5]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Supersoldaten",
+		"uniqueTo":"Großgermanisches Reich",
+		"replaces": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 7,
+		"strength": 200,
+		"rangedStrength": 200,
+		"range": 5,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","No movement cost to pillage"],
+		"attackSound": "gdrAttack"
 	}
 ]
