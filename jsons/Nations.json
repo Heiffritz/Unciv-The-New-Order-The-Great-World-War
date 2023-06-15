@@ -19,7 +19,7 @@
 		"cities": ["Nord-Paris","Nanzig","Tischau","Lienhardstadt","West-Luxembourg","Rounne","Nevers","Kaleiß","Den Hafre","Lielle","Leunne","Amiens","Kaenne","Bäville"]
 	},
 	{
-		"name": "Siberian Black League",
+		"name": "Western Siberian Black League",
 		"leaderName": "Dmitry Yazov",
 		"adjective": ["Russian"],
 		"preferredVictoryType": "Domination",
@@ -57,7 +57,7 @@
 		"cities": ["Norver-Moskvien","Permhaym","Arkhangelsk","Yakutsk","Murmansk","Severodvinsk","Norilsk","Novy Urengoi","Noyabrsk","Surgut"]
 	},
 	{
-		"name": "Großgermanisches Reich",
+		"name": "Grossgermanisches Reich",
 		"leaderName": "Hermann Göring",
 		"adjective": ["Aryan","German","Nazi"],
 		"preferredVictoryType": "Domination",
@@ -71,7 +71,7 @@
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [140,22,22],
 		"innerColor": [0,0,0],
-		"uniqueName": "Greater Germanic Reich",
+		"uniqueName": "Greater Germanic Reich/Germania",
 		"uniques": ["Starts with [Autocracy] adopted", "[-15]% maintenance cost units [in all cities]"],
 		"cities": ["Germania","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 		"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
@@ -81,7 +81,7 @@
 		"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
 	},
 	{
-		"name": "ESACA",
+		"name": "Eastern Siberian Anarcho-Communist Army",
 		"leaderName": "Ivan Stepanov",
 		"adjective": ["Russian","Anarchist","Communist"],
 		"preferredVictoryType": "Domination",
@@ -95,7 +95,7 @@
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
-		"uniqueName": "Eastern Siberian Anarcho Communist Army",
+		"uniqueName": "ESACA",
 		"uniques": ["[-30]% maintenance cost units [in all cities]","Starts with [Anarcho-Communism] adopted"],
 		"cities": ["Yakutsk","Vladivostok","Petropavlovsk-Kamchatsky","Yuzhno-Sakhalinsk","Magadan","Komsomolsk-on-Amur","Blagoveshchensk","Birobidzhan"]
 	},
@@ -119,7 +119,7 @@
 		"cities": ["Sergiev Posad","Smolensk","Suzdal","Tula","Vladimir","Yaroslavl"]
 	},
 	{
-		"name": "SSSSR",
+		"name": "Southern Siberian Soviet Socialist Republics",
 		"leaderName": "Valery Sablin",
 		"adjective": ["Soviet","Russian"],
 		"preferredVictoryType": "Domination",
@@ -133,7 +133,7 @@
 		"tradeRequest": "Wanna trade?",
 		"outerColor": [229,0,0],
 		"innerColor": [236,166,0],
-		"uniqueName": "Southern Siberia of Soviet Socialist Republics",
+		"uniqueName": "SSSSR",
 		"uniques": ["Starts with [Order] adopted","[-35]% maintenance cost units [in all cities]","[-15]% maintenance cost for nuclear weapons [in all cities]"],
 		"cities": ["Derbent","Elista","Krasnodar","Makhackala","Mineralnye Vody","Rostov-on-the-Don","Sochi","Stavropol","Vladikavkaz"]
 	}
