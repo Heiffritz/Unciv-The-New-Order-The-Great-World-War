@@ -60,7 +60,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Hayperborya Strazha",
+		"name": "Giperboreya Strazha",
 		"uniqueTo": "Hyperborea",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",

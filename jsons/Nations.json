@@ -38,8 +38,8 @@
 		"cities": ["Omsk","Zapad-Moskva","Yazovgrad","Kazan","Yekaterinburg","Novosibirsk","Samara","Novgorod","Rostov","Volgograd","Krasnoyarsk","Saratov","Kaliningrad","Chelyabinsk","Tyumen","Ufa","Voronezh","Barnaul","Krasnodar","Khabarovsk","Tomsk"]
 	},
 	{
-		"name": "Hyperborea",
-		"leaderName": "Walerie Yämelyanoff",
+		"name": "Giperboreya",
+		"leaderName": "Gutrum Dobrofolsk",
 		"adjective": ["Hyperborean"],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Let us face ourselves. We are Hyperboreans; We know very well how far off we live.",
