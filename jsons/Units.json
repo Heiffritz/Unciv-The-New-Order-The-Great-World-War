@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Black League",
-	    "uniqueTo": "Siberian Black League",
+	    "uniqueTo": "Western Siberian Black League",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 4,
@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "Solnechnpistol",
-		"uniqueTo": "Hyperborea",
+		"uniqueTo": "Giperboreya",
 		"replaces": "Nuclear Missile",
 		"unitType": "Missile",
 		"movement": 3,
@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Giperboreya Strazha",
-		"uniqueTo": "Hyperborea",
+		"uniqueTo": "Giperboreya",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 4,
@@ -106,7 +106,7 @@
 	},
 	{
 		"name": "Chernyy Soldat",
-		"uniqueTo": "ESACA",
+		"uniqueTo": "Eastern Siberian Anarcho-Communist Army",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 4,
@@ -259,7 +259,7 @@
 	},
 	{
 		"name": "RS-32 Mest'",
-		"uniqueTo": "Siberian Black League",
+		"uniqueTo": "Western Siberian Black League",
 		"replaces": "Nuclear Missile",
 		"unitType": "Missile",
 		"movement": 1,
@@ -273,7 +273,7 @@
 	},
 	{
 		"name": "Probnaya Bomba",
-		"uniqueTo": "Siberian Black League",
+		"uniqueTo": "Western Siberian Black League",
 		"replaces": "Atomic Bomb",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
@@ -348,7 +348,7 @@
 	},
 	{
 		"name": "Red Soldier",
-		"uniqueTo": "SSSSR",
+		"uniqueTo": "Southern Siberian Soviet Socialist Republics",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 4,
@@ -363,7 +363,7 @@
 	},
 	{
 		"name": "Lenin Bomba",
-		"uniqueTo": "SSSSR",
+		"uniqueTo": "Southern Siberian Soviet Socialist Republics",
 		"replaces": "Atomic Bomb",
 		"unitType": "Atomic Bomber",
 		"movement": 1,
@@ -379,7 +379,7 @@
 	},
 	{
 		"name": "Supersoldaten",
-		"uniqueTo":"Grossgermanisches Reich",
+		"uniqueTo": "Grossgermanisches Reich",
 		"replaces": "Giant Death Robot",
 		"unitType": "Armored",
 		"movement": 7,
@@ -394,7 +394,7 @@
 	},
 	{
 		"name": "Storozhhevoy",
-		"uniqueTo": "SSSSR",
+		"uniqueTo": "Southern Siberian Soviet Socialist Republics",
 		"replaces": "Destroyer",
 		"unitType": "Melee Water",
 		"movement": 8,
