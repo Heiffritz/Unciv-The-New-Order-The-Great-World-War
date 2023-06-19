@@ -131,7 +131,7 @@
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
-		"upgradesTo": "P-1000 Ratte",
+		"upgradesTo": "Landkreuzer P.1000 Ratte",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
@@ -401,7 +401,7 @@
 		"strength": 105,
 		"interceptRange": 4,
 		"cost": 375,
-		"requiredTech": "Combution",
+		"requiredTech": "Combustion",
 		"uniques": ["Never appears as a Barbarian unit","Can see invisible [Submarine] units","[55]% chance to intercept air attacks","May withdraw before melee ([90]%)", "[+115]% Strength <vs [Submarine] units>","Can move after attacking","No movement cost to pillage"],
 		"attackSound": "shipguns"
 	},
