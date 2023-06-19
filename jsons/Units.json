@@ -75,7 +75,7 @@
 		"promotions": ["Amphibious","Morale"]
 	},
 	{
-		"name": "Kriegsmarine",
+		"name": "Wehrmacht",
 	    "uniqueTo": "Grossgermanisches Reich",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
@@ -417,5 +417,21 @@
 		"requiredTech": "Rocketry",
 		"uniques": ["[120]% chance to intercept air attacks","[+165]% Strength <vs [Air] units>","[+165]% Strength <vs [Helicopter] units>","Never appears as a Barbarian unit","Can move after attacking","No movement cost to pillage","[+80]% Strength <when attacking>","Never appears as a Barbarian unit"],
 		"attackSound": "missile"
+	},
+	{
+		"name": "Feldmarschall",
+		"uniqueTo": "Grossgermanisches Reich",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": ["Empire enters a [10]-turn Golden Age","[+25]% Strength bonus for [Military] units within [4] tiles","Can instantly construct a [Citadel] improvement","Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
+	},
+	{
+		"name": "Oberst-Gruppenfuehrer",
+		"uniqueTo": "Grossgermanisches Reich",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": ["Empire enters a [10]-turn Golden Age","[+25]% Strength bonus for [Military] units within [4] tiles","Can instantly construct a [Citadel] improvement","Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
 	}
 ]
