@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "Solnechnpistol",
-		"uniqueTo": "Giperboreya",
+		"uniqueTo": "Hyperborea",
 		"replaces": "Nuclear Missile",
 		"unitType": "Missile",
 		"movement": 3,
@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Giperboreya Strazha",
-		"uniqueTo": "Giperboreya",
+		"uniqueTo": "Hyperborea",
 		"replaces": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 4,
