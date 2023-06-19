@@ -5,7 +5,7 @@ Have you ever thought or imagined if the governments of the world's countries ch
 Credits:
 Check out Unciv here!:
 https://yairm210.itch.io/unciv
-Check out their community mods!:
+And also check out their community mods!:
 https://github.com/topics/unciv-mod
 
 Check out Hearts of Iron 4 here!:
