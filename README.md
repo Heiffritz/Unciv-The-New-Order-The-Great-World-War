@@ -4,15 +4,15 @@ Have you ever thought or imagined if the governments of the world's countries ch
 
 Credits:
 Check out Unciv here!:
-https://yairm210.itch.io/unciv
+https://yairm210.itch.io/unciv.
 And also check out their community mods!:
-https://github.com/topics/unciv-mod
+https://github.com/topics/unciv-mod.
 If you interested for more about this game, you can join their Discord!:
-https://discord.gg/Cv8Vw4kS
+https://discord.gg/Cv8Vw4kS.
 If you have ideas or reports for my mod, you can find me in here!:
-https://discord.gg/xmtjkYt2
+https://discord.gg/xmtjkYt2.
 
 Check out Hearts of Iron 4 here!:
-https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
+https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/.
 And also check out their community mods!:
-https://steamcommunity.com/app/394360/workshop/
+https://steamcommunity.com/app/394360/workshop/.
