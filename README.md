@@ -9,7 +9,7 @@ And also check out their community mods!:
 https://github.com/topics/unciv-mod
 If you interested for more about this game, you can join their Discord!:
 https://discord.gg/Cv8Vw4kS
-Indonesian:
+If you have ideas or reports for my mod, you can find me in here!:
 https://discord.gg/xmtjkYt2
 
 Check out Hearts of Iron 4 here!:
