@@ -1,6 +1,11 @@
 # Unciv-The-New-Order
 Have you ever thought or imagined if the governments of the world's countries changed at Unciv? then this Mod is the answer!
-(I do this mod when I have free time, so waiting for the update will be a bit long.) {This mod is inspired by mods from the game Hearts of Iron 4.}
+(I do this mod when I have free time, so waiting for the update will be a bit long.) {This mod is inspired by mods from the game Hearts of Iron 4.} [This mod still W.I.P.]
+This mod adds new civs into the game!(This mod is still on planning to be a Ruleset for Unciv, so for now, only adds new civs, policies, and units):
+Civs:
+Greater Germanic Reich, Hyperborea, Order-State of Burgundy, USSR, Black League, Anarchy Russia, Holy Russian Empire.
+Policies:
+Anarchism, Esoteric Nazism, Ynglism.
 
 Credits:
 Check out Unciv here!:
