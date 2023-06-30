@@ -1,6 +1,6 @@
 # UNCIV-THE-NEW-ORDER-THE-GREAT-WORLD-WAR
 Have you ever thought or imagined if the countries changed into alternative political paths in Unciv? then this Mod is the answer!
-(I do this mod when I have free time, so waiting for the update will be a bit long), {This mod is inspired by mods from the game Hearts of Iron 4}.
+(I do this mod when I have free time, so waiting for the update will be a bit long), {This mod is inspired by Hearts of Iron 4 mods. BUT, I it'll be a little different from the original HoI4 Mods to make it looks and feels a little bit easier to understand}.
 This mod adds new Civs, Policies, Units into the game! (This mod is still on planning to be a Ruleset for Unciv, so for now, only adds new civs, policies, and units) [This mod still W.I.P.]
 
 Credits:
